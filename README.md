@@ -2,7 +2,7 @@
 
 **Systems Administration Student**
 
-First-year student in Systems Administration and Cybersecurity. Learning about operating systems, networks, and web development.
+Second-year student in Systems Administration and Cybersecurity. Learning about operating systems, networks, and web development.
 
 ---
 
